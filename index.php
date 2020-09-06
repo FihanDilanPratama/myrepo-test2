@@ -8,5 +8,10 @@
 <body>
     <h1>Hello GitHub!</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex quos adipisci magni cupiditate nulla suscipit in pariatur incidunt sunt ab dolores dignissimos repellat fugit temporibus a, atque, sed sit esse?</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 </html>
