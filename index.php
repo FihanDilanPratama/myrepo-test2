@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Hello GitHub!</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex quos adipisci magni cupiditate nulla suscipit in pariatur incidunt sunt ab dolores dignissimos repellat fugit temporibus a, atque, sed sit esse?</p>
 </body>
 </html>
